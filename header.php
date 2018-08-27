@@ -75,7 +75,7 @@
     </div>
     <!-- /.container -->
 </nav>
-<header class="intro-header" style="background-image: url('<?php $this->options->backgroundImage(); ?>')">
+<header class="intro-header" style="background-image: url('https://i.loli.net/2018/08/27/5b83e541a5ad0.jpg')">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
